@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Budget Splitter</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="app">
+    <h1>💸 Budget Splitter</h1>
+
+    <form id="expense-form" class="form">
+      <input id="name" type="text" placeholder="Name" required />
+      <input id="amount" type="number" placeholder="Amount" step="0.01" required />
+      <button type="submit">Add Expense</button>
+    </form>
+
+    <section>
+      <h2>Expenses</h2>
+      <ul id="expense-list"></ul>
+      <div class="controls">
+        <button id="calculate-btn">Calculate Split</button>
+        <button id="clear-btn">Clear All</button>
+      </div>
+    </section>
+
+    <section>
+      <h2>Results</h2>
+      <ul id="result-list"></ul>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
