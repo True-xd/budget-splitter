@@ -17,11 +17,6 @@ Perfect for trips, roommates, or group activities.
 
 ---
 
-## 🖼️ Demo Screenshot  
-![Demo screenshot](assets/ss.png)  
-
----
-
 ## 🛠️ Tech Stack  
 - **HTML** – UI structure  
 - **CSS** – Styling  
