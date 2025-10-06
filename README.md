@@ -18,7 +18,7 @@ Perfect for trips, roommates, or group activities.
 ---
 
 ## 🖼️ Demo Screenshot  
-![Demo screenshot](assets/screenshot.png)  
+![Demo screenshot](assets/ss.png)  
 
 ---
 
